@@ -1,0 +1,2 @@
+deb http://repo.netdata.cloud/repos/stable/ubuntu/ jammy/
+deb http://repo.netdata.cloud/repos/repoconfig/ubuntu/ jammy/
